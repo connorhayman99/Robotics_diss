@@ -1,0 +1,9 @@
+[submodule "robotiq"]
+	path = robotiq
+	url = https://github.com/TAMS-Group/robotiq
+[submodule "rosserial_noetic"]
+	path = rosserial_noetic
+	url = https://github.com/Aranyaa-k/rosserial_noetic
+[submodule "rosbag_to_csv"]
+	path = rosbag_to_csv
+	url = https://github.com/AtsushiSakai/rosbag_to_csv
